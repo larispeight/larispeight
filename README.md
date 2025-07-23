@@ -12,10 +12,12 @@ Hi, I'm Larissa! A graphic designer turned web developer, passionate about cozy 
 - Developing brand concepts to sharpen my skills and stay creative  
 - Working through The Odin Project curriculum — challenging, but rewarding!  
 
+<!--
 ## 🌻 What I’m aiming for  
 - Build interactive websites that look great and work smoothly  
 - Gain confidence with React and modern web tools  
 - Learn UX/UI design principles to create user-friendly experiences
+-->
 
 ## 🐱 A little about me  
 When I’m not designing or coding, I’m surrounded by my cats, my husband, and probably a crochet hook.
@@ -23,9 +25,9 @@ When I’m not designing or coding, I’m surrounded by my cats, my husband, and
 ## 🤝 Let’s connect  
 *(Portfolio coming soon!)*
 ---
-
+<!--
 Thanks for visiting! I’m always excited to learn, grow, and connect. 😊
-
+-->
 <!--
 **larispeight/larispeight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
